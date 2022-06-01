@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(221, 221, 221);
+}
+
+img{
+    height: 500px;
+}
+
+#like > p{
+    font-size: 20px;
+}
+
+#interaction{
+    font-size: 20px;
+}
+
+ul li:active{
+    background-color: #0D6EFD;
+    transition: 500ms;
+    border-radius: 2px;
+}
+
+.col-4 img{
+    height: 300px;
+    width: -webkit-fill-available;
+}
